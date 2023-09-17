@@ -1,5 +1,5 @@
 ![logo](https://github.com/Avi-014/Avi-014/blob/main/Abhishek%20Pandey.jpg)
-<h1 align="center">Hi 👋, I'm Abhushek Pandey</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
 <h3 align="center">A Android developer & Competitive Programmer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z1Mzd2cGd4a2lkbWhrM2d1MHd3ZjllNDgzcHY4c3A2dTBnNGpobSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
