@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi-014&label=Profile%20views&color=0e75b6&style=flat" alt="avi-014" /> </p>
 
-- 💬 Ask me about **Android Development, Java and DSA**
+- 💬 Ask me about **Android Development Machine Learning, Java and DSA**
 
 - 📫 How to reach me **avipandey0509@gmail.com**
 
